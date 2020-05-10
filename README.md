@@ -10,6 +10,6 @@ Getting Started: Prerequisites:
 1.	Install Android Studio 3.6
 2.	Install Java 8
 
-The Project folder contains all the necessary resources. Unzip the project folder and load the project to the Android studio. Connect an android device through USD debugging option active and run the project.
+The Project folder contains all the necessary resources. Download the project and load the project to the Android studio. Connect an android device through USD debugging option active and run the project.
 
 
